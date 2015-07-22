@@ -1,0 +1,6 @@
+C:\Users\Handy\Documents\handy\work\dev\vs2013\fileloc\GetFileList\bin\Debug\GetFileList.exe.config
+C:\Users\Handy\Documents\handy\work\dev\vs2013\fileloc\GetFileList\bin\Debug\GetFileList.exe
+C:\Users\Handy\Documents\handy\work\dev\vs2013\fileloc\GetFileList\bin\Debug\GetFileList.pdb
+C:\Users\Handy\Documents\handy\work\dev\vs2013\fileloc\GetFileList\obj\Debug\GetFileList.csprojResolveAssemblyReference.cache
+C:\Users\Handy\Documents\handy\work\dev\vs2013\fileloc\GetFileList\obj\Debug\GetFileList.exe
+C:\Users\Handy\Documents\handy\work\dev\vs2013\fileloc\GetFileList\obj\Debug\GetFileList.pdb
